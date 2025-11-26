@@ -26,3 +26,8 @@ Rather than navigating thousands of scattered sources, readers can use this list
 | **Mamba-2 / Transformers are SSMs (2024)**                           | Unified the Transformer and SSM views through Structured State Space Duality. Introduced GPU-efficient kernels and improvements that make Mamba architectures more scalable and competitive with LLM-scale training.                                                                                  | [Arxiv](https://arxiv.org/abs/2405.21060)                                                                   |
 | **GQA: Generalized Multi-Query Attention (2023)**                    | Efficient attention design used in Llama 2/3, DeepSeek, and many optimized inference stacks. Balances the speed of MQA with the quality of MHA by grouping query heads.                                                                                                                               | [Arxiv](https://arxiv.org/abs/2305.13245)                                                                   |
 | **FlashAttention 1 & 2 (2022–2023)**                                 | A high-performance attention kernel that minimizes memory reads/writes. FlashAttention enabled training very large models efficiently, making long-context attention feasible and becoming the standard kernel for LLMs.                                                                              | FA1: [Arxiv](https://arxiv.org/abs/2205.14135), FA2: [Arxiv](https://arxiv.org/abs/2307.08691)              |
+
+
+# Licence
+
+Apache License Version 2.0, January 2004
