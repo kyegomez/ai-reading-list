@@ -8,6 +8,8 @@ This collection brings together the highest-signal research papers in modern AI�
 Rather than navigating thousands of scattered sources, readers can use this list to quickly grasp how foundational breakthroughs connect to state-of-the-art systems like GPT-4+, DeepSeek-R1, Llama 3, Sora, Kimi K2, and Flux. It serves as a compact, evolving reference that traces the arc of modern AI—from first principles to emergent reasoning and long-horizon agentic behavior—providing the essential conceptual building blocks in one accessible place.
 
 
+
+
 ## Papers
 
 
@@ -31,6 +33,16 @@ Rather than navigating thousands of scattered sources, readers can use this list
 | **Mamba-2 / Transformers are SSMs (2024)**                           | Unified the Transformer and SSM views through Structured State Space Duality. Introduced GPU-efficient kernels and improvements that make Mamba architectures more scalable and competitive with LLM-scale training.                                                                                  | [Arxiv](https://arxiv.org/abs/2405.21060)                                                                   |
 | **GQA: Generalized Multi-Query Attention (2023)**                    | Efficient attention design used in Llama 2/3, DeepSeek, and many optimized inference stacks. Balances the speed of MQA with the quality of MHA by grouping query heads.                                                                                                                               | [Arxiv](https://arxiv.org/abs/2305.13245)                                                                   |
 | **FlashAttention 1 & 2 (2022–2023)**                                 | A high-performance attention kernel that minimizes memory reads/writes. FlashAttention enabled training very large models efficiently, making long-context attention feasible and becoming the standard kernel for LLMs.                                                                              | FA1: [Arxiv](https://arxiv.org/abs/2205.14135), FA2: [Arxiv](https://arxiv.org/abs/2307.08691)              |
+
+## Community
+
+Join the **Swarms Discord** server, a cozy community of 14,000+ researchers and practitioners focused on frontier research. Our community explores:
+
+- **Multi-modality models** — Vision-language models, audio-visual systems, and unified architectures
+- **Continual learning** — Methods for models that adapt and learn continuously without catastrophic forgetting
+- **Multi-agent collaboration** — Swarm intelligence, agent coordination, and distributed AI systems
+
+[![Join Swarms Discord](https://img.shields.io/badge/Discord-Join%20Swarms-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/swarms)
 
 
 # Licence
