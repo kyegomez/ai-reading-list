@@ -13,3 +13,4 @@ ai-reading-list
 - Adam: A Method for Stochastic Optimization
 - The bitter lesson
 - Diffusion transformers
+- FLUX.1 Kontext: Flow Matching for In-Context Image Generation and Editing in Latent Space
